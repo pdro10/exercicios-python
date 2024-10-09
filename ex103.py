@@ -1,0 +1,1 @@
+# def ficha(jog=0, gols=0):
